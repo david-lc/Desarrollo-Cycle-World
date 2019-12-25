@@ -1,0 +1,367 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+body
+{
+	text-align: center;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+ul
+{
+	list-style-type: none;
+}
+
+
+.ConjuntoProductos
+{
+	margin-top: 0px;
+	margin-bottom: 40px;
+}
+
+.ConjuntoProductos h1
+{
+	margin-bottom: 20px;
+	
+	font-family: LinotteLight;
+	font-size: 26pt;
+}
+
+.ConjuntoProductos li
+{
+	
+	
+	display: inline-block;
+	margin: 20px 60px;
+}
+
+.ConjuntoProductos header
+{
+	position: relative;
+	
+	display: inline-block;
+	width: 80%;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+	
+	border-bottom: solid;
+	border-width: 1px;
+}
+
+.ConjuntoProductos header a
+{
+	float:left;
+	
+	display: inline-block;
+	margin: 0px;
+	padding: 10px 10px;
+	
+	background-color: white;
+	border: solid;
+	border-width: 2px;
+	border-radius: 6px;
+	color: #CF2A27;
+	
+	text-decoration: none;
+}
+
+.ConjuntoProductos header a:hover
+{
+	background-color: #CF2A27;
+	text-decoration: none;
+	color: white;
+	border-color: white;
+}
+
+.ConjuntoProductos header h2
+{
+	display: inline-block;
+	float:right;
+	
+	font-family: LinotteLight;
+	font-size: 24pt;
+	
+	margin: 0px;
+	padding: 0px;
+}
+
+.CajaProducto
+{
+	border:solid;
+	border-width: 2px;
+	
+	color: black;
+	
+	cursor: pointer;
+}
+
+.CajaProducto:hover
+{
+	box-shadow: 0 0 30px #CF2A27;
+}
+
+.CajaProducto h2
+{
+	width: 274px;
+	margin: 0px;
+	padding: 5px 4px;
+	
+	font-family: Sans-Serif;
+	font-size: 14pt;
+	text-align: left;
+	
+	background-color: #CF2A27;
+	border-bottom: solid;
+	border-width: 1px;
+	border-color: black;
+	color: white;
+	
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.CajaProducto div
+{
+	padding: 5px;
+	
+	border-bottom: solid;
+	border-width: 1px;
+}
+
+.CajaProducto p
+{
+	margin: 0px;
+	padding: 3px 4px;
+	
+	font-family: Sans-Serif;
+	font-size: 18px;
+	text-align: left;
+	
+	color: white;
+}
+
+.CajaSeccion
+{
+	display: block;
+	
+	border:solid;
+	border-width: 2px;
+	
+	background-color: #CF2A27;
+	color: black;	
+}
+
+.CajaSeccion:hover
+{
+	background-color: #C66563;
+	border-width: 2px;
+	border-color: black;
+	color: white;
+	
+	text-decoration: none;
+}
+
+.CajaSeccion h2
+{
+	margin: 0px;
+	padding: 5px 4px;
+	
+	font-family: Sans-Serif;
+	font-size: 16pt;
+	text-align: center;
+	
+	border-top: solid;
+	border-width: 1px;
+	border-color: black;
+	color: white;
+}
+
+
+
+.Ayuda
+{
+	position:relative;
+	
+	padding: 30px 0px;
+	
+	border-bottom: solid white;
+}
+
+.TituloAyuda
+{
+	display: inline;
+	margin: 0px 85px;
+	
+	font-family: BebasNeue;
+	font-size: 40pt;
+	
+	color: white;
+	
+	vertical-align: middle;
+}
+
+.CajaInfo
+{
+	display: inline-block;
+	width: 250px;
+	padding: 30px 0px;
+	
+	font-family: Sans-Serif;
+	
+	background-color: #CF2A27;
+	border: solid;
+	border-radius: 15px;
+	color: white;
+	
+	text-decoration: none;
+	vertical-align: middle;
+}
+
+.CajaInfo:hover
+{
+	background-color: #C66563;
+	color: white;
+	text-decoration: none;
+}
+
+
+.FooterPrincipal
+{
+	margin-top: 30px;
+	padding-top: 15px;
+}
+
+.FooterPrincipal ul
+{
+	margin: 0px;
+	margin-bottom: 2%;	
+	padding: 0px;
+}
+
+.FooterPrincipal li
+{
+	display: inline-block;
+}
+
+.FooterPrincipal img
+{
+    vertical-align: middle;
+}
+
+.FooterPrincipal span
+{
+    position: relative;
+	bottom: 3px;
+}
+
+.FooterPrincipal a
+{
+	font-family: HelveticaNeue;
+	font-size: 24pt;
+	
+	text-decoration: none;
+	
+	color: white;
+}
+
+.FooterPrincipal li:first-child
+{
+	float:left;
+	
+	margin-left: 5%;
+}
+
+.FooterPrincipal li:last-child
+{
+	float:right;
+	
+	margin-right: 5%;
+}
+
+.FooterPrincipal h5
+{
+	margin: 0px;
+	
+	font-family: HelveticaNeue;
+	font-size: 22pt;
+	text-align: center;
+	
+	color: white;	
+}
+
+.BotonFormulario
+{
+	display: inline-block;
+	margin: 0px;
+	padding: 10px;
+	
+	background-color: white;
+	border: solid;
+	border-width: 2px;
+	border-radius: 6px;
+	color: #CF2A27;
+	
+	text-decoration: none;
+}
+
+.BotonFormulario:hover
+{
+	background-color: #CF2A27;
+	text-decoration: none;
+	color: white;
+	border-color: white;
+}
+
+
+@font-face 
+{
+    font-family: BebasNeue;
+    src: url("../Fuentes/BebasNeue.woff2") format("woff2"),
+         url("../Fuentes/BebasNeue.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face 
+{
+    font-family: HelveticaNeue;
+    src: url("../Fuentes/HelveticaNeue.woff2") format("woff2"),
+         url("../Fuentes/HelveticaNeue.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face 
+{
+    font-family: Belleza;
+    src: url("../Fuentes/Belleza-Regular.woff2") format("woff2"),
+         url("../Fuentes/Belleza-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face 
+{
+    font-family: LinotteLight;
+    src: url("../Fuentes/Linotte-Light.woff2") format("woff2"),
+         url("../Fuentes/Linotte-Light.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face 
+{
+    font-family: LinotteRegular;
+    src: url("../Fuentes/Linotte-Regular.woff2") format("woff2"),
+         url("../Fuentes/Linotte-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
