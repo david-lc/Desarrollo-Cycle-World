@@ -1,0 +1,36 @@
+Bolsillos : Sí
+
+Color : Gris
+
+Corte : Ajustado
+
+Cremallera : Integral
+
+Elementos reflectantes : Sí
+
+Mangas : Cortas
+
+Protección contra el frío : Sin
+
+Protección contra el viento : No
+
+Protección contra la lluvia : Sin
+
+Talla : S, M, L, XL, XXL
+
+Peso (fabricante) : 83 g (taille L)
+
+
+
+
+
+
+Bolsillos : Bolsillo en la cintura
+
+Color : Negro
+
+Mangas : Cortas
+
+Talla : S, M, L, XL
+
+Tipo de protección : Flexible
