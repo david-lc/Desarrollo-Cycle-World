@@ -1,2 +1,2 @@
 # Desarrollo de la página web Cycle World
-El desarrollo no atendió a cuestiones técnicas relacionadas con la calidad u organización del código, el proceso se centró únicamente en la usabilidad.
+Resultado del proyecto de desarrollo de una página web asociada a una tienda de bicicletas (que no realiza ventas online) atendiendo únicamente a la usabilidad. Debido a la falta de tiempo y a que no resultaba relevante para la práctica no se cuidó el código, por lo que técnicamente la página presenta varios inconvenientes en el contexto de la ampliación y reutilización de sus componentes.
